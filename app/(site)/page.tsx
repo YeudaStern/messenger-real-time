@@ -6,7 +6,7 @@ const Auth = () => {
     <div 
       className="
         flex 
-        min-h-full 
+        h-full 
         flex-col 
         justify-center 
         py-12 
@@ -16,7 +16,7 @@ const Auth = () => {
       
       "
     >
-      <div className="sm:mx-auto sm:w-full sm:max-w-md shadow-none rounded-lg p-4 md:shadow-lg md:shadow-sky-500">
+      <div className="h-full sm:mx-auto sm:w-full sm:max-w-md shadow-none rounded-lg p-4 md:shadow-lg md:shadow-sky-500">
         <Image
           height="48"
           width="48"
