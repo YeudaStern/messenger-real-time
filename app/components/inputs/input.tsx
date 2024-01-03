@@ -35,7 +35,7 @@ const Input: React.FC<InputProps> = ({
           text-sm 
           font-medium 
           leading-6 
-          
+          rounded-lg
           
         "
       >

@@ -21,7 +21,7 @@ const AuthSocialButton: React.FC<AuthSocialButtonProps> = ({
       
         px-4 
         py-2 
-        bg-gradient-to-r from-sky-500 via-sky-600 to-sky-700  border-0
+        bg-gradient-to-r from-sky-500 via-sky-800 to-sky-700  border-0
         shadow 
         shadow-sky-500 
         
